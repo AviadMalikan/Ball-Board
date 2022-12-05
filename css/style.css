@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white
+}
+
+h1 {
+    background-color: rgb(37, 99, 135);
+}
+
+table {
+    margin: auto
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    text-align: center
+}
+
+.cell img {
+    width: 25px;
+    height: auto
+}
+
+.floor {
+    background-color: gray
+}
+
+.wall {
+    background-color: rgb(37, 99, 135)
+}
+
+.loose {
+    background-color: rgba(255, 0, 0, 0.633);
+}
+
+.hide {
+    display: none;
+}
